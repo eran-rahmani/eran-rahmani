@@ -195,12 +195,15 @@ figure {
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
-  margin: 2em 0;
+  margin-right: 0em;
+  margin-left: 0em;
+  margin-bottom: 0em;
+  margin-top: 0em;
 
   img,
   iframe,
   .fluid-width-video-wrapper {
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
   }
 
   img {
@@ -214,6 +217,20 @@ figure {
     display: block;
   }
 
+  &.full2 {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(100%);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+	  margin-bottom: 1em;
+    }
+  }
+  
   &.half {
     > a,
     > img {
@@ -239,6 +256,66 @@ figure {
       width: 100%;
     }
   }
+  
+  &.home_gallery {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(50%);
+      }
+    }
+
+    figcaption {
+      width: 100%;
+    }
+  }
+  
+  &.full-half {
+    justify-content: center;
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(50%);
+      }
+    }
+
+    figcaption {
+	  justify-content: left;
+      width: 100%;
+	  margin-bottom: 1em;
+    }
+  }
+  
+  &.full-two_third {
+    justify-content: center;
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(75%);
+      }
+    }
+
+    figcaption {
+	  justify-content: left;
+      width: 100%;
+	  margin-bottom: 1em;
+    }
+  }
+
+  &.full-third {
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(33.333%);
+      }
+    }
+
+    figcaption {
+      width: 33.333%;
+	  margin-bottom: 1em;
+    }
+  }
+  
 }
 
 /* Figure captions */

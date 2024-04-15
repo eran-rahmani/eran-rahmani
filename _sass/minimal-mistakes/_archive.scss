@@ -4,7 +4,7 @@
 
 .archive {
   margin-top: 1em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 
   @include breakpoint($large) {
     float: right;
@@ -44,11 +44,16 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  text-align: center;
+  margin-bottom: 0em;
   line-height: initial;
+  font-weight: normal;
   overflow: hidden;
   text-overflow: ellipsis;
+  a {
+    text-decoration: none;
+  }
+  
 
   a[rel="permalink"]::before {
     content: '';
@@ -150,7 +155,7 @@
 }
 
 .grid__item {
-  margin-bottom: 2em;
+  margin-bottom: 1.25em;
 
   @include breakpoint($small) {
     float: left;
@@ -225,11 +230,11 @@
 
   .archive__item-teaser {
     @include breakpoint($small) {
-      max-height: 200px;
+      // max-height: 200px;
     }
 
     @include breakpoint($medium) {
-      max-height: 120px;
+      // max-height: 120px;
     }
   }
 }
@@ -349,6 +354,10 @@
 
     .archive__item-teaser {
       margin-bottom: 2em;
+    }
+
+    .archive__item-teaser-list {
+      margin-bottom: 7em;
     }
 
     a.btn::before {
