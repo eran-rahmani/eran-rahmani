@@ -8,7 +8,7 @@ tags:
   - Collage
   - Illustration
 header:
-  teaser: assets/images/teasers/the_promise.jpg 
+  teaser: /assets/images/teasers/the_promise.jpg 
 gallery1:
   - url: assets/images/the_promise/eran_rahmani_the_promise_01.gif
     image_path: assets/images/the_promise/eran_rahmani_the_promise_01.gif

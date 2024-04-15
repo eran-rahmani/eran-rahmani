@@ -9,7 +9,7 @@ tags:
   - Fish
   - Illustration
 header:
-  teaser: assets/images/teasers/printmaking.jpg 
+  teaser: /assets/images/teasers/printmaking.jpg 
 gallery1:
   - url: assets/images/printmaking/eran_rahmani_printmaking_01.jpg
     image_path: assets/images/printmaking/eran_rahmani_printmaking_01.jpg

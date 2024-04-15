@@ -9,7 +9,7 @@ tags:
   - Illustration
   - Logo
 header:
-  teaser: assets/images/teasers/website_illustration.jpg 
+  teaser: /assets/images/teasers/website_illustration.jpg 
 gallery1:
   - url: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg
     image_path: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg

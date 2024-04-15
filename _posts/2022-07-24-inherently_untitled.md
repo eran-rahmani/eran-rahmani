@@ -10,7 +10,7 @@ tags:
   - Textile
   - Fish
 header:
-  teaser: assets/images/teasers/inherently_untitled.jpg 
+  teaser: /assets/images/teasers/inherently_untitled.jpg 
 gallery1:
   - url: assets/images/inherently_untitled/eran_rahmani_inherently_untitled_01.jpg
     image_path: assets/images/inherently_untitled/eran_rahmani_inherently_untitled_01.jpg

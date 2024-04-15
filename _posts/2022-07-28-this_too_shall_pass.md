@@ -7,7 +7,7 @@ permalink: /works/this_too_shall_pass/
 tags:
   - Ceramic
 header:
-  teaser: assets/images/teasers/this_too_shall_pass.jpg 
+  teaser: /assets/images/teasers/this_too_shall_pass.jpg 
 gallery1:
   - url: assets/images/this_too_shall_pass/eran_rahmani_this_too_shall_pass_01.jpg
     image_path: assets/images/this_too_shall_pass/eran_rahmani_this_too_shall_pass_01.jpg

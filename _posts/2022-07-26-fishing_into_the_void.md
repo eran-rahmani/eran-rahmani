@@ -9,7 +9,7 @@ tags:
   - Collage
   - Stitching
 header:
-  teaser: assets/images/teasers/fishing_into_the_void.jpg 
+  teaser: /assets/images/teasers/fishing_into_the_void.jpg 
 gallery1:
   - url: assets/images/fishing_into_the_void/eran_rahmani_fishing_into_the_void_01.jpg
     image_path: assets/images/fishing_into_the_void/eran_rahmani_fishing_into_the_void_01.jpg

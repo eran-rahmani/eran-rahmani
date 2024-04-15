@@ -9,7 +9,7 @@ tags:
   - Metal
   - Jewelry
 header:
-  teaser: assets/images/teasers/mamagapoo.jpg 
+  teaser: /assets/images/teasers/mamagapoo.jpg 
 gallery1:
   - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_01.jpg
     image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_01.jpg

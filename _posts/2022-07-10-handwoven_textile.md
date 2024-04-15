@@ -8,7 +8,7 @@ tags:
   - Handwoven
   - Textile
 header:
-  teaser: assets/images/teasers/handwoven_textile.jpg 
+  teaser: /assets/images/teasers/handwoven_textile.jpg 
 gallery1:
   - url: assets/images/handwoven_textile/eran_rahmani_handwoven_textile_01.jpg
     image_path: assets/images/handwoven_textile/eran_rahmani_handwoven_textile_01.jpg

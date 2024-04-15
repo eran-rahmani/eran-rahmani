@@ -11,7 +11,7 @@ tags:
   - Fish
   - Character Design
 header:
-  teaser: assets/images/teasers/individualworks.jpg
+  teaser: /assets/images/teasers/individualworks.jpg
 gallery1:
   - url: assets/images/individual_works/eran_rahmani_individual_works_01.gif
     image_path: assets/images/individual_works/eran_rahmani_individual_works_01.gif

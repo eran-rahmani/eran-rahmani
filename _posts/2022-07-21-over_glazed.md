@@ -7,7 +7,7 @@ permalink: /works/over_glazed/
 tags:
   - Ceramic
 header:
-  teaser: assets/images/teasers/over_glazed.jpg 
+  teaser: /assets/images/teasers/over_glazed.jpg 
 gallery1:
   - url: assets/images/over_glazed/eran_rahmani_over_glazed_01.jpg
     image_path: assets/images/over_glazed/eran_rahmani_over_glazed_01.jpg

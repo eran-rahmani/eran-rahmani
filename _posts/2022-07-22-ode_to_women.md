@@ -9,7 +9,7 @@ tags:
   - Metal
   - Jewelry
 header:
-  teaser: assets/images/teasers/ode_to_women.jpg 
+  teaser: /assets/images/teasers/ode_to_women.jpg 
 gallery1:
   - url: assets/images/ode_to_women/eran_rahmani_ode_to_women_01.jpg
     image_path: assets/images/ode_to_women/eran_rahmani_ode_to_women_01.jpg

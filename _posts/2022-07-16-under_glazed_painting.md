@@ -9,7 +9,7 @@ tags:
   - Illustration
   - Fish
 header:
-  teaser: assets/images/teasers/under_glazed_painting.jpg 
+  teaser: /assets/images/teasers/under_glazed_painting.jpg 
 gallery1:
   - url: assets/images/under_glazed_painting/eran_rahmani_under_glazed_painting_01.jpg
     image_path: assets/images/under_glazed_painting/eran_rahmani_under_glazed_painting_01.jpg

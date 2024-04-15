@@ -9,7 +9,7 @@ tags:
   - Collage
   - Illustration
 header:
-  teaser: assets/images/teasers/metamorphosis.jpg 
+  teaser: /assets/images/teasers/metamorphosis.jpg 
 gallery1:
   - url: assets/images/metamorphosis/eran_rahmani_metamorphosis_01.jpg
     image_path: assets/images/metamorphosis/eran_rahmani_metamorphosis_01.jpg
