@@ -9,6 +9,7 @@ toc: false
 toc_label: Sections
 toc_sticky: true
 ---
+[Download CV as PDF](/assets/pdf/eran-rahmani-cv.pdf){: .btn .btn--primary}
 ## Contact Information
 
 - **Location:** Brussels, Belgium
