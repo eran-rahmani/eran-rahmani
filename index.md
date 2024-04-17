@@ -1,5 +1,5 @@
 ---
-title: Eran Rahmani
+title:
 layout: eran_home
 classes: wide
 header:
