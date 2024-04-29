@@ -11,22 +11,22 @@ tags:
 header:
   teaser: /assets/images/teasers/metamorphosis.jpg 
 gallery1:
-  - url: assets/images/metamorphosis/eran_rahmani_metamorphosis_01.jpg
-    image_path: assets/images/metamorphosis/eran_rahmani_metamorphosis_01.jpg
+  - url: assets/images/metamorphosis/eran-rahmani-metamorphosis-01.jpg
+    image_path: assets/images/metamorphosis/eran-rahmani-metamorphosis-01.jpg
     alt: ""
     title: "Collage, 29×42 cm, 2021"
 gallery2:
-  - url: assets/images/metamorphosis/eran_rahmani_metamorphosis_02.jpg
-    image_path: assets/images/metamorphosis/eran_rahmani_metamorphosis_02.jpg
+  - url: assets/images/metamorphosis/eran-rahmani-metamorphosis-02.jpg
+    image_path: assets/images/metamorphosis/eran-rahmani-metamorphosis-02.jpg
     alt: ""
     title: "Collage, 29×42 cm, 2021"
 gallery3:
-  - url: assets/images/metamorphosis/eran_rahmani_metamorphosis_03.jpg
-    image_path: assets/images/metamorphosis/eran_rahmani_metamorphosis_03.jpg
+  - url: assets/images/metamorphosis/eran-rahmani-metamorphosis-03.jpg
+    image_path: assets/images/metamorphosis/eran-rahmani-metamorphosis-03.jpg
     alt: ""
     title: "Collage, 29×42 cm, 2021"
-  - url: assets/images/metamorphosis/eran_rahmani_metamorphosis_04.jpg
-    image_path: assets/images/metamorphosis/eran_rahmani_metamorphosis_04.jpg
+  - url: assets/images/metamorphosis/eran-rahmani-metamorphosis-04.jpg
+    image_path: assets/images/metamorphosis/eran-rahmani-metamorphosis-04.jpg
     alt: ""
     title: "Collage, 29×42 cm, 2021"
 ---

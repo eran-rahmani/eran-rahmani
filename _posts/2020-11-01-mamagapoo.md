@@ -11,91 +11,91 @@ tags:
 header:
   teaser: /assets/images/teasers/mamagapoo.jpg 
 gallery1:
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_01.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_01.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-01.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-01.jpg
     alt: ""
     title: "Ceramic & Copper & Coin, 12×10.5 cm, 2022"
 gallery2:
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_02.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_02.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-02.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-02.jpg
     alt: ""
     title: "Ceramic & Copper & Coin, 6×9.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_03.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_03.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-03.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-03.jpg
     alt: ""
     title: "Ceramic & Brass & Coin, 10×8.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_04.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_04.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-04.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-04.jpg
     alt: ""
     title: "Ceramic & Brass, 5.5×7 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_05.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_05.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-05.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-05.jpg
     alt: ""
     title: "Ceramic & Copper & Coin, 6×9.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_06.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_06.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-06.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-06.jpg
     alt: ""
     title: "Ceramic & Brass & Coin, 10×8.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_07.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_07.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-07.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-07.jpg
     alt: ""
     title: "Ceramic & Brass, 5.5×7 cm, 2022"
 gallery3:
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_08.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_08.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-08.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-08.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_09.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_09.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-09.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-09.jpg
     alt: ""
     title: "Ceramic & Brass, 6×7 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_10.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_10.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-10.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-10.jpg
     alt: ""
     title: "Ceramic & Brass, 8.5×13 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_11.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_11.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-11.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-11.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_12.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_12.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-12.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-12.jpg
     alt: ""
     title: "Ceramic & Brass, 6×7 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_13.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_13.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-13.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-13.jpg
     alt: ""
     title: "Ceramic & Brass, 8.5×13 cm, 2022"
 gallery4:
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_14.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_14.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-14.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-14.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_15.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_15.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-15.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-15.jpg
     alt: ""
     title: "Ceramic & Copper, 12×10.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_16.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_16.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-16.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-16.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_17.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_17.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-17.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-17.jpg
     alt: ""
     title: "Ceramic & Copper, 12×10.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_18.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_18.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-18.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-18.jpg
     alt: ""
     title: "Ceramic & Copper & Coin, 6×13.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_19.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_19.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-19.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-19.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×8.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_20.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_20.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-20.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-20.jpg
     alt: ""
     title: "Ceramic & Copper & Coin, 6×13.5 cm, 2022"
-  - url: assets/images/mamagapoo/eran_rahmani_mamagapoo_21.jpg
-    image_path: assets/images/mamagapoo/eran_rahmani_mamagapoo_21.jpg
+  - url: assets/images/mamagapoo/eran-rahmani-mamagapoo-21.jpg
+    image_path: assets/images/mamagapoo/eran-rahmani-mamagapoo-21.jpg
     alt: ""
     title: "Ceramic & Brass, 6.5×8.5 cm, 2022"
 ---

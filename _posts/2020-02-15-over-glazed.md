@@ -3,27 +3,27 @@ layout: single
 classes: wide
 title: "Over-glazed Ceramics"
 excerpt: ""
-permalink: /works/over_glazed/
+permalink: /works/over-glazed/
 tags:
   - Ceramic
 header:
-  teaser: /assets/images/teasers/over_glazed.jpg 
+  teaser: /assets/images/teasers/over-glazed.jpg 
 gallery1:
-  - url: assets/images/over_glazed/eran_rahmani_over_glazed_01.jpg
-    image_path: assets/images/over_glazed/eran_rahmani_over_glazed_01.jpg
+  - url: assets/images/over-glazed/eran-rahmani-over-glazed-01.jpg
+    image_path: assets/images/over-glazed/eran-rahmani-over-glazed-01.jpg
     alt: ""
     title: "Ceramic, 10.5×17.5 cm, 6.5×17 cm, 7.5×9 cm, 9×14 cm, 2019"
 gallery2:
-  - url: assets/images/over_glazed/eran_rahmani_over_glazed_02.jpg
-    image_path: assets/images/over_glazed/eran_rahmani_over_glazed_02.jpg
+  - url: assets/images/over-glazed/eran-rahmani-over-glazed-02.jpg
+    image_path: assets/images/over-glazed/eran-rahmani-over-glazed-02.jpg
     alt: ""
     title: "Ceramic, 10.5×17.5 cm, 6.5×17 cm, 7.5×9 cm, 9×14 cm, 2019"
-  - url: assets/images/over_glazed/eran_rahmani_over_glazed_03.jpg
-    image_path: assets/images/over_glazed/eran_rahmani_over_glazed_03.jpg
+  - url: assets/images/over-glazed/eran-rahmani-over-glazed-03.jpg
+    image_path: assets/images/over-glazed/eran-rahmani-over-glazed-03.jpg
     alt: ""
     title: "Ceramic, 10.5×17.5 cm, 6.5×17 cm, 7.5×9 cm, 9×14 cm, 2019"
-  - url: assets/images/over_glazed/eran_rahmani_over_glazed_04.jpg
-    image_path: assets/images/over_glazed/eran_rahmani_over_glazed_04.jpg
+  - url: assets/images/over-glazed/eran-rahmani-over-glazed-04.jpg
+    image_path: assets/images/over-glazed/eran-rahmani-over-glazed-04.jpg
     alt: ""
     title: "Ceramic, 10.5×17.5 cm, 6.5×17 cm, 7.5×9 cm, 9×14 cm, 2019"
 ---

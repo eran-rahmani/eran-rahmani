@@ -3,36 +3,36 @@ layout: single
 classes: wide
 title: "Website Illustration"
 excerpt: ""
-permalink: /works/website_illustration/
+permalink: /works/website-illustration/
 tags:
   - Collage
   - Illustration
   - Logo
 header:
-  teaser: /assets/images/teasers/website_illustration.jpg 
+  teaser: /assets/images/teasers/website-illustration.jpg 
 gallery1:
-  - url: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg
-    image_path: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery2:
-  - url: assets/images/website_illustration/eran_rahmani_website_illustration_02.jpg
-    image_path: assets/images/website_illustration/eran_rahmani_website_illustration_02.jpg
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-02.jpg
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-02.jpg
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery3:
-  - url: assets/images/website_illustration/eran_rahmani_website_illustration_03.jpg
-    image_path: assets/images/website_illustration/eran_rahmani_website_illustration_03.jpg
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-03.jpg
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-03.jpg
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery4:
-  - url: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg
-    image_path: assets/images/website_illustration/eran_rahmani_website_illustration_01.jpg
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery5:
-  - url: assets/images/website_illustration/eran_rahmani_website_illustration_05.png
-    image_path: assets/images/website_illustration/eran_rahmani_website_illustration_05.png
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-05.png
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-05.png
     alt: ""
     title: ""
 ---

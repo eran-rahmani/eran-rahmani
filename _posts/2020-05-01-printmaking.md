@@ -11,55 +11,55 @@ tags:
 header:
   teaser: /assets/images/teasers/printmaking.jpg 
 gallery1:
-  - url: assets/images/printmaking/eran_rahmani_printmaking_01.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_01.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-01.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-01.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 28×28 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_02.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_02.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-02.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-02.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 28×28 cm, 2019"
 gallery2:
-  - url: assets/images/printmaking/eran_rahmani_printmaking_03.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_03.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-03.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-03.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 44×34 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_04.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_04.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-04.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-04.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 44×34 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_05.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_05.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-05.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-05.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 44×34 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_06.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_06.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-06.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-06.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 26×38 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_07.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_07.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-07.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-07.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 26×38 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_08.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_08.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-08.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-08.jpg
     alt: ""
     title: "Silk Screen Print on Fabric, 26×38 cm, 2019"
 gallery3:
-  - url: assets/images/printmaking/eran_rahmani_printmaking_09.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_09.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-09.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-09.jpg
     alt: ""
     title: "Batik Print, 95×95 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_10.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_10.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-10.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-10.jpg
     alt: ""
     title: "Batik Print, 95×95 cm, 2019"
 gallery4:
-  - url: assets/images/printmaking/eran_rahmani_printmaking_11.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_11.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-11.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-11.jpg
     alt: ""
     title: "Batik Print, 95×95 cm, 2019"
-  - url: assets/images/printmaking/eran_rahmani_printmaking_12.jpg
-    image_path: assets/images/printmaking/eran_rahmani_printmaking_12.jpg
+  - url: assets/images/printmaking/eran-rahmani-printmaking-12.jpg
+    image_path: assets/images/printmaking/eran-rahmani-printmaking-12.jpg
     alt: ""
     title: "Batik Print, 95×95 cm, 2019"
 ---

@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Eran Rahmani"
-  avatar           : "/assets/images/eran_rahmani_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/eran-rahmani.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Visual Artist - Ceramist"
   location         : "Brussels, Belgium"
   email            : "eran.rahmani.i@gmail.com"
