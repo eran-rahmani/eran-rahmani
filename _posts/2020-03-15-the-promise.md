@@ -41,7 +41,7 @@ gallery2:
     title: "Collage, 23×23 cm, 2024"
 ---
 
-{% include gallery id="gallery1" class="full-two-third" caption="<center>Collage, 23×23 cm, 2024</center>" %}
+{% include gallery id="gallery1" class="full2" caption="<center>Collage, 23×23 cm, 2024</center>" %}
 
 "The Promise" is a captivating book written by Nicola Davies and illustrated by Laura Carlin. The story follows a child living in a bleak and harsh society, surviving through petty theft. However, the contents of a single stolen bag lead the child onto a new path.
 As an exercise, I attempted to illustrate a frame from this story, where hope and life are reborn. The frame consists of six moments that unfold as the reader flips through the pages.

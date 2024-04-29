@@ -62,5 +62,5 @@ gallery3:
 Anyone can experience a sense of despair at some point in their lives. This work is a reminder to myself and my friend of hope, brightness, transformation, and changes, even in the days when seeing the bright side of life seems impossible. This work is one of my early attempts at exploring social concepts. I created a clay plate with matte black glaze, then arranged the human figurines in these positions to serve the concept I wanted to convey. 
 
 {% include gallery id="gallery2" class="third" caption="" %}
-{% include gallery id="gallery3" class="third" caption="" %}
+{% include gallery id="gallery3" class="full-half" caption="" %}
 
