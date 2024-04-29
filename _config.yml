@@ -20,7 +20,7 @@ title                    : "Eran Rahmani"
 title_separator          : "-"
 subtitle                 : "Visual Artist - Ceramist" # site tagline that appears below site title in masthead
 name                     : "Eran Rahmani"
-description              : "Eran Rahmani (visual artist)."
+description              : "Eran Rahmani is a Ceramist and Visual artist experienced in Installation, Illustration, and Printmaking, with an interest in Conceptual and Interactive Art. Based in Brussels, Belgium."
 url                      : "https://eran-rahmani.com"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "eran-rahmani/eran-rahmani" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
