@@ -31,9 +31,13 @@ gallery3:
     image_path: assets/images/individual-works/eran-rahmani-individual-works-04.jpg
     alt: ""
     title: "Untitle, 2024"
+  - url: assets/images/individual-works/eran-rahmani-individual-works-05.jpg
+    image_path: assets/images/individual-works/eran-rahmani-individual-works-05.jpg
+    alt: ""
+    title: "Untitle, 2024"
 ---
 
 {% include gallery id="gallery1" class="half" caption="" %}
 {% include gallery id="gallery2" class="full-half" caption="Paperdoll, 2022" %}
 <b>
-{% include gallery id="gallery3" class="full2" caption="Untitle, 2024" %}
+{% include gallery id="gallery3" class="half" caption="Untitle, 2024" %}
