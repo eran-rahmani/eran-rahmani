@@ -26,8 +26,8 @@ gallery3:
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery4:
-  - url: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
-    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-01.jpg
+  - url: assets/images/website-illustration/eran-rahmani-website-illustration-04.jpg
+    image_path: assets/images/website-illustration/eran-rahmani-website-illustration-04.jpg
     alt: ""
     title: "Collage, 30×60 cm, 2022"
 gallery5:
