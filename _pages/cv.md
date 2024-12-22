@@ -16,7 +16,7 @@ toc_sticky: true
 - **Website:** [**eran-rahmani.com**](https://eran-rahmani.com/)
 - **Email:** [eran.rahmani.i@gmail.com](mailto:eran-rahmani@gmail.com)
 - **Profiles:**
-  - **LinkedIn:** [Eran-Rahmani](https://inkedin.com/in/eran-rahmani)
+  - **LinkedIn:** [Eran-Rahmani](https://linkedin.com/in/eran-rahmani)
   - **Instagram:** [Eran.Rahmani](https://instagram.com/eran.rahmani)
 
 ## Education
