@@ -24,7 +24,7 @@ toc_sticky: true
 
 ## Professional Experience
 - **Ceramics Instructor & Studio Assistant**, Kiwi Studio – Brussels, Belgium  
-  *2023 – Present*
+  *November 2024 – December 2025*
   
   - Studio maintenance and organisation (workspaces, tools, materials, kiln loading) to ensure a safe and functional environment.
   - Teaching glazing workshops.
@@ -35,6 +35,7 @@ toc_sticky: true
 - Ceramics, Illustration, Handmade Jewelry, Pottery, Glazing, Printmaking, Screen printing, Monoprint, Linocut, Batik, Drawing, Handwoven Textile, Puppeteering
 
 ## Teaching Experience
+- Pottery Hand-building Workshop - European School Brussels III - 2025
 - Monoprint Workshop - Le Petit Atelier - 2024
 - Monoprint Workshop - Demoot Art Gallery and School - 2021
 - Pottery - Institute for the Intellectual Development of Children and Young Adults (Kanoon) - 2016
@@ -66,5 +67,5 @@ toc_sticky: true
 ## Languages
 - English: Full professional proficiency
 - Persian: Native
-- French: Elementary (A2)
+- French: Elementary
  
